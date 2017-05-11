@@ -1,0 +1,34 @@
+a {
+    text-decoration:inherit;
+    color: inherit;
+}
+
+h1 {
+    text-align:center;
+}
+ul{
+    margin:auto;
+    width:70%;
+}
+ul li{
+    
+    font-size: 20px;
+    font-weight:bold;
+    display:inline;
+    margin: 0 40px;
+}
+
+img {
+    display:block;
+    margin:auto;
+    width:40%;
+}
+body {
+    font-family: Palatino;
+    line-height: 1.3;
+    margin: 40px auto;
+    max-width: 650px;
+    font-size: 18px;
+    color:#444;
+    padding: 0;
+}
